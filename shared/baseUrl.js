@@ -1,0 +1,1 @@
+export const baseUrl = '10.0.0.88:3001/';
